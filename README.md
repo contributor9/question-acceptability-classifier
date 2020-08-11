@@ -10,3 +10,6 @@ There are two variants, default is sliding window as discussed in the [paper](ht
 
 ## BERT
 Similarly, BERT classifier can be trained by running `train.py` in `bert/` folder and the trained model and logs will be saved.
+
+## LICENSE
+MIT
