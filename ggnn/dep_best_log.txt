@@ -1,0 +1,32 @@
+For Epoch: 7
+
+              precision    recall  f1-score   support
+
+           0       0.86      0.93      0.89     13648
+           1       0.75      0.59      0.66      5086
+
+    accuracy                           0.84     18734
+   macro avg       0.81      0.76      0.78     18734
+weighted avg       0.83      0.84      0.83     18734
+
+
+              precision    recall  f1-score   support
+
+           0       0.86      0.83      0.85      1723
+           1       0.57      0.62      0.60       619
+
+    accuracy                           0.78      2342
+   macro avg       0.72      0.73      0.72      2342
+weighted avg       0.78      0.78      0.78      2342
+
+
+              precision    recall  f1-score   support
+
+           0       0.85      0.83      0.84      1716
+           1       0.56      0.59      0.57       626
+
+    accuracy                           0.76      2342
+   macro avg       0.70      0.71      0.70      2342
+weighted avg       0.77      0.76      0.77      2342
+
+
