@@ -11,5 +11,15 @@ There are two variants, default is sliding window as discussed in the [paper](ht
 ## BERT
 Similarly, BERT classifier can be trained by running `train.py` in `bert/` folder and the trained model and logs will be saved.
 
+## Results
+
+| Method        | Validation Accuracy     | Test Accuracy  |
+| ------------- |:-------------:| -----:|
+| LSTM      | 79.76 | 78.27 |
+| BERT      | 80.23      |   77.33 |
+| GGNN (Sliding Window) | 81.00      |    79.42 |
+| GGNN (Dpendency Parse) | 77.63      |    76.39 |
+
+
 ## LICENSE
 MIT
